@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Mobile view
+<a href="url"><img src="https://github.com/Nayan-Sinha/Adding-Widget-to-Hello-World/blob/main/assets/demo1.png" align="center" width="300" height="600" ></a> <a href="url"><img src="https://github.com/Nayan-Sinha/Adding-Widget-to-Hello-World/blob/main/assets/demo2.png" align="center" width="300" height="600" ></a>
+
